@@ -1,0 +1,6 @@
+{
+  "name": "Jenkins",
+  "description": "Jenkins CI Server",
+  "repository": "https://github.com/zhaw-iwi/DevOpsJenkins",
+  "keywords": ["Jenkins"]
+}
